@@ -1,0 +1,36 @@
+ .maindiv>div{
+   background-color: #c2c2d1;
+    width: 200px;
+    height: 320px;
+    text-align: center;
+    border-radius: 6px;
+    margin: 20px;
+    align-items: centre;
+  }
+  
+    img{
+      height: 150px;
+      width: 130px;
+      margin-top: 20px;
+    }
+    img:hover{
+      
+      
+    }
+    button{
+      background-color: #f7e3e3;
+      border-radius: 10px;
+      border-color: #a0f9a0;
+      height: 25px;
+      width: 130px;
+      transition: .5s;
+      border: 10px;
+    }
+    button:hover{
+      height:35px ;
+      width:140px ;
+    }
+    .maindiv{
+      display: flex;
+    
+    }
